@@ -1,0 +1,47 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <meta charset="UTF-8">  
+    <title></title>  
+    <style>  
+        body {  
+            margin: 0;  
+            background-color: #ffffff;
+            
+        } 
+        .number {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            align-items: center;
+            border-color: #000000;
+            justify-content: center;
+            border-width: 2px;
+            border-style: solid;
+
+        }
+        p {
+            color: #000000;
+            margin: 0;
+            font-weight: 700;
+            font-family: sans-serif;
+            font-size: 80px;
+        }
+    </style>  
+</head>  
+<body>
+    <div class="number">
+       <p id="num">666</p>
+   </div>
+   <script>
+        const p = document.getElementById('num');
+        const div = document.querySelector('.number');
+        while (p.offsetWidth > div.offsetWidth - 10) {
+            p.style.fontSize = (parseInt(p.style.fontSize) - 10) + 'px';
+        }
+   </script>
+</body>  
+</html>
