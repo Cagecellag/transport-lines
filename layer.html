@@ -34,14 +34,14 @@
 </head>  
 <body>
     <div class="number">
-       <p id="num">666</p>
+       <p id="num">69</p>
    </div>
    <script>
         const p = document.getElementById('num');
         const div = document.querySelector('.number');
-        while (p.offsetWidth > div.offsetWidth - 10) {
-            p.style.fontSize = (parseInt(p.style.fontSize) - 10) + 'px';
+        while (p.offsetWidth > div.offsetWidth - 30) {
+            p.style.fontSize = (parseFloat(getComputedStyle(p).fontSize) - 5) + 'px';
         }
-   </script>
+    </script>
 </body>  
 </html>
