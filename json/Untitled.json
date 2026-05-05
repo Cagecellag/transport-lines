@@ -1,5 +1,19 @@
 {
     "Number": {
+        "AVA/Autw": {
+            "340": {
+                "color": "b72a2f",
+                "text-color": "ffffff"
+            },
+            "444": {
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            },
+            "445": {
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            }
+        },
         "RVBW": {
             "1": {
                 "color": "c31b23",
@@ -91,6 +105,30 @@
             }
         },
         "PAG": {
+            "1": {
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            },
+            "3": {
+                "color": "95c93d",
+                "text-color": "000000"
+            },
+            "4": {
+                "color": "ea028c",
+                "text-color": "ffffff"
+            },
+            "5": {
+                "color": "005bab",
+                "text-color": "ffffff"
+            },
+            "8": {
+                "color": "780001",
+                "text-color": "ffffff"
+            },
+            "9": {
+                "color": "00adef",
+                "text-color": "ffffff"
+            },
             "102": {
                 "color": "f3b229",
                 "text-color": "000000"
@@ -139,7 +177,31 @@
                 "color": "f3b229",
                 "text-color": "000000"
             },
+            "148": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
             "149": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "205": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "215": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "217": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "231": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "245": {
                 "color": "f3b229",
                 "text-color": "000000"
             },
@@ -155,6 +217,10 @@
                 "color": "f3b229",
                 "text-color": "000000"
             },
+            "331": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
             "332": {
                 "color": "f3b229",
                 "text-color": "000000"
@@ -164,6 +230,46 @@
                 "text-color": "000000"
             },
             "335": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "336": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "338": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "339": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "341": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "342": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "343": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "344": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "345": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "346": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "350": {
                 "color": "f3b229",
                 "text-color": "000000"
             },
@@ -179,7 +285,19 @@
                 "color": "f3b229",
                 "text-color": "000000"
             },
+            "355": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
             "357": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "360": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "361": {
                 "color": "f3b229",
                 "text-color": "000000"
             },
@@ -187,9 +305,59 @@
                 "color": "f3b229",
                 "text-color": "000000"
             },
+            "363": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "364": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "366": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "368": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "371": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
             "372": {
                 "color": "f3b229",
                 "text-color": "000000"
+            },
+            "374": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "376": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "379": {
+                "color": "f3b229",
+                "text-color": "000000"  
+            },
+            "380": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "381": {
+                "color": "f3b229",
+                "text-color": "000000"
+            }
+        },
+        "RBL": {
+            "390": {
+                "color": "f6aba7",
+                "text-color": "000000"
+            },
+            "392": {
+                "color": "d48785",
+                "text-color": "ffffff"
             }
         }
     }
