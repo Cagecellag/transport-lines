@@ -14,6 +14,12 @@
                 "text-color": "ffffff"
             }
         },
+        "AVA-ltb": {
+            "200": {
+                "color": "a0296f",
+                "text-color": "ffffff"
+            }
+        },
         "RVBW": {
             "1": {
                 "color": "c31b23",
@@ -62,6 +68,10 @@
             "12": {
                 "color": "a8cfc6",
                 "text-color": "000000"
+            },
+            "13": {
+                "color": "f18751",
+                "text-color": "ffffff"
             },
             "N33": {
                 "color": "1b161c",
