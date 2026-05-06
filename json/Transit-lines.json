@@ -1,0 +1,829 @@
+{
+    "version": "1.0",
+    "Categories": {
+
+        "B": {
+
+            "operators": {
+
+                "AVA/Autw": {
+
+                    "040072": {
+                        "name": "040072",
+                        "category": "B",
+                        "number": "340",
+                        "operator": "AVA/Autw",
+                        "color": "b72a2f",
+                        "text-color": "ffffff"
+                        },
+                    "044424": {
+                        "name": "044424",
+                        "category": "B",
+                        "number": "444",
+                        "operator": "AVA/Autw",
+                        "color": "ec1f25",
+                        "text-color": "ffffff"
+                    },
+                    "044548": {
+                        "name": "044548",
+                        "category": "B",
+                        "number": "445",
+                        "operator": "AVA/Autw",
+                        "color": "ec1f25",
+                        "text-color": "ffffff"
+                    }
+
+                },
+                "AVA-ltb": {
+                    "000279": {
+                        "name": "000279",
+                        "category": "B",
+                        "number": "20",
+                        "operator": "AVA-ltb",
+                        "color": "a0296f",
+                        "text-color": "ffffff"
+            }
+        },
+                "RVBW": {
+                    "001431": {
+                        "name": "001431",
+                        "category": "B",
+                        "number": "1",
+                        "operator": "RVBW",
+                        "color": "c31b23",
+                        "text-color": "ffffff"
+                    },
+                    "002257": {
+                        "name": "002257",
+                        "category": "B",
+                        "number": "2",
+                        "operator": "RVBW",
+                        "color": "4694d4",
+                        "text-color": "ffffff"
+                    },
+                    "003003": {
+                        "name": "003003",
+                        "category": "B",
+                        "number": "3",
+                        "operator": "RVBW",
+                        "color": "f0d93c",
+                        "text-color": "000000"
+                    },
+                    "004001": {
+                        "name": "004001",
+                        "category": "B",
+                        "number": "4",
+                        "operator": "RVBW",
+                        "color": "61a94b",
+                        "text-color": "ffffff"
+                    },
+                    "005321": {
+                        "name": "005321",
+                        "category": "B",
+                        "number": "5",
+                        "operator": "RVBW",
+                        "color": "c970a1",
+                        "text-color": "ffffff"
+                    },
+                    "006373": {
+                        "name": "006373",
+                        "category": "B",
+                        "number": "6",
+                        "operator": "RVBW",
+                        "color": "000000",
+                        "text-color": "ffffff"
+                    },
+                    "007480": {
+                        "name": "007480",
+                        "category": "B",
+                        "number": "7",
+                        "operator": "RVBW",
+                        "color": "3a3493",
+                        "text-color": "ffffff"
+                    },
+                    "008043": {
+                        "name": "008043",
+                        "category": "B",
+                        "number": "8",
+                        "operator": "RVBW",
+                        "color": "80572f",
+                        "text-color": "ffffff"
+                    },
+                    "009102": {
+                        "name": "009102",
+                        "category": "B",
+                        "number": "9",
+                        "operator": "RVBW",
+                        "color": "d8ab71",
+                        "text-color": "ffffff"
+                    },
+                    "010048": {
+                        "name": "010048",
+                        "category": "B",
+                        "number": "10",
+                        "operator": "RVBW",
+                        "color": "671a85",
+                        "text-color": "ffffff"
+                    },
+                    "011056": {
+                        "name": "011056",
+                        "category": "B",
+                        "number": "11",
+                        "operator": "RVBW",
+                        "color": "becc28",
+                        "text-color": "ffffff"
+                    },
+                    "012027": {
+                        "name": "012027",
+                        "category": "B",
+                        "number": "12",
+                        "operator": "RVBW",
+                        "color": "a8cfc6",
+                        "text-color": "000000"
+                    },
+                    "013094": {
+                        "name": "013094",
+                        "category": "B",
+                        "number": "13",
+                        "operator": "RVBW",
+                        "color": "f18751",
+                        "text-color": "ffffff"
+                    },
+                    "N33": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N34": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N35": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N36": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N37": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N38": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N70": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N71": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N72": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    },
+                    "N73": {
+                        "color": "1b161c",
+                        "text-color": "ffce26"
+                    }
+                },
+                "PAG": {
+                    "000187": {
+                        "name": "000187",
+                        "category": "B",
+                        "number": "1",
+                        "operator": "PAG",
+                        "color": "ec1f25",
+                        "text-color": "ffffff",
+                        "note": "In Wohlen"
+                    },
+                    "000385": {
+                        "name": "000385",
+                        "category": "B",
+                        "number": "3",
+                        "operator": "PAG",
+                        "color": "95c93d",
+                        "text-color": "000000",
+                        "note": "In Wohlen"
+                    },
+                    "000485": {
+                        "name": "000485",
+                        "category": "B",
+                        "number": "4",
+                        "operator": "PAG",
+                        "color": "ea028c",
+                        "text-color": "ffffff",
+                        "note": "In Wohlen"
+                    }, 
+                    "000585": {
+                        "name": "000585",
+                        "category": "B",
+                        "number": "5",
+                        "operator": "PAG",
+                        "color": "005bab",
+                        "text-color": "ffffff",
+                        "note": "In Wohlen"
+                    },
+                    "000803": {
+                        "name": "000803",
+                        "category": "B",
+                        "number": "8",
+                        "operator": "PAG",
+                        "color": "780001",
+                        "text-color": "ffffff",
+                        "note": "In Wohlen"
+                    },
+                    "000905": {
+                        "name": "000905",
+                        "category": "B",
+                        "number": "9",
+                        "operator": "PAG",
+                        "color": "00adef",
+                        "text-color": "ffffff",
+                        "note": "In Wohlen"
+                    },
+                    "000115": {
+                        "name": "000115",
+                        "category": "B",
+                        "number": "1",
+                        "operator": "PAG",
+                        "color": "ee1d23",
+                        "text-color": "ffffff",
+                        "note": "In Bad Zurzach"
+                    },
+                    "000215": {
+                        "name": "000215",
+                        "category": "B",
+                        "number": "2",
+                        "operator": "PAG",
+                        "color": "95c93d",
+                        "text-color": "000000",
+                        "note": "In Bad Zurzach"
+                    },
+                    "000315": {
+                        "name": "000315",
+                        "category": "B",
+                        "number": "3",
+                        "operator": "PAG",
+                        "color": "ea028c",
+                        "text-color": "ffffff",
+                        "note": "In Bad Zurzach"
+                    },
+                    "001413": {
+                        "name": "001413",
+                        "category": "B",
+                        "number": "4",
+                        "operator": "PAG",
+                        "color": "005bab",
+                        "text-color": "ffffff",
+                        "note": "In Bad Zurzach"
+                    },
+                    "013307": {
+                        "name": "013307",
+                        "category": "B",
+                        "number": "133",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "013432": {
+                        "name": "013432",
+                        "category": "B",
+                        "number": "134",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "035150": {
+                        "name": "035150",
+                        "category": "B",
+                        "number": "135",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036073": {
+                        "name": "036073",
+                        "category": "B",
+                        "number": "136",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "013759": {
+                        "name": "013759",
+                        "category": "B",
+                        "number": "137",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "013934": {
+                        "name": "013934",
+                        "category": "B",
+                        "number": "139",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014145": {
+                        "name": "014145",
+                        "category": "B",
+                        "number": "141",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014256": {
+                        "name": "014256",
+                        "category": "B",
+                        "number": "142",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "043076": {
+                        "name": "043076",
+                        "category": "B",
+                        "number": "143",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014441": {
+                        "name": "014441",
+                        "category": "B",
+                        "number": "144",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014745": {
+                        "name": "014745",
+                        "category": "B",
+                        "number": "147",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014844": {
+                        "name": "014844",
+                        "category": "B",
+                        "number": "148",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "014954": {
+                        "name": "014954",
+                        "category": "B",
+                        "number": "149",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "015016": {
+                        "name": "015016",
+                        "category": "B",
+                        "number": "150",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "020523": {
+                        "name": "020523",
+                        "category": "B",
+                        "number": "205",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "021546": {
+                        "name": "021546",
+                        "category": "B",
+                        "number": "215",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "017058": {
+                        "name": "017058",
+                        "category": "B",
+                        "number": "217",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "023148": {
+                        "name": "023148",
+                        "category": "B",
+                        "number": "231",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "024555": {
+                        "name": "024555",
+                        "category": "B",
+                        "number": "245",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "020124": {
+                        "name": "020124",
+                        "category": "B",
+                        "number": "320",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "021039": {
+                        "name": "021039",
+                        "category": "B",
+                        "number": "321",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "022042": {
+                        "name": "022042",
+                        "category": "B",
+                        "number": "322",  
+                        "operator": "PAG",  
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033145": {
+                        "name": "033145",
+                        "category": "B",
+                        "number": "331",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "032095": {
+                        "name": "032095",
+                        "category": "B",
+                        "number": "332",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033452": {
+                        "name": "033452",
+                        "category": "B",
+                        "number": "334",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033556": {
+                        "name": "033556",
+                        "category": "B",
+                        "number": "335",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033663": {
+                        "name": "033663",
+                        "category": "B",
+                        "number": "336",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033827": {
+                        "name": "033827",
+                        "category": "B",
+                        "number": "338",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "033927": {
+                        "name": "033927",
+                        "category": "B",
+                        "number": "339",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034169": {
+                        "name": "034169",
+                        "category": "B",
+                        "number": "341",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034238": {
+                        "name": "034238",
+                        "category": "B",
+                        "number": "342",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034345": {
+                        "name": "034345",
+                        "category": "B",
+                        "number": "343",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034439": {
+                        "name": "034439",
+                        "category": "B",
+                        "number": "344",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034535": {
+                        "name": "034535",
+                        "category": "B",
+                        "number": "345",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "034640": {
+                        "name": "034640",
+                        "category": "B",
+                        "number": "346",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "050125": {
+                        "name": "050125",
+                        "category": "B",
+                        "number": "350",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "035230": {
+                        "name": "035230",
+                        "category": "B",
+                        "number": "352",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "035339": {
+                        "name": "035339",
+                        "category": "B",
+                        "number": "353",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "054070": {
+                        "name": "054070",
+                        "category": "B",
+                        "number": "354",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "035537": {
+                        "name": "035537",
+                        "category": "B",
+                        "number": "355",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "057167": {
+                        "name": "057167",
+                        "category": "B",
+                        "number": "357",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "035835": {
+                        "name": "035835",
+                        "category": "B",
+                        "number": "358",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036040": {
+                        "name": "036040",
+                        "category": "B",
+                        "number": "360",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036145": {
+                        "name": "036145",
+                        "category": "B",
+                        "number": "361",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036251": {
+                        "name": "036251",
+                        "category": "B",
+                        "number": "362",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036336": {
+                        "name": "036336",
+                        "category": "B",
+                        "number": "363",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "064089": {
+                        "name": "064089",
+                        "category": "B",
+                        "number": "364",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "036639": {
+                        "name": "036639",
+                        "category": "B",
+                        "number": "366",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "068088": {
+                        "name": "068088",
+                        "category": "B",
+                        "number": "368",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "071057": {
+                        "name": "071057",
+                        "category": "B",
+                        "number": "371",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "037232": {
+                        "name": "037232",
+                        "category": "B",
+                        "number": "372",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "037450": {
+                        "name": "037450",
+                        "category": "B",
+                        "number": "374",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "076099": {
+                        "name": "076099",
+                        "category": "B",
+                        "number": "376",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "037957": {
+                        "name": "037957",
+                        "category": "B",
+                        "number": "379",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"  
+                    },
+                    "051044": {
+                        "name": "051044",
+                        "category": "B",
+                        "number": "510",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    },
+                    "051556": {
+                        "name": "051556",
+                        "category": "B",
+                        "number": "515",
+                        "operator": "PAG",
+                        "color": "fcb915",
+                        "text-color": "000000"
+                    }
+
+                },
+                "RBL": {
+                    "080022": {
+                        "name": "080022",
+                        "category": "B",
+                        "number": "380",
+                        "operator": "RBL",
+                        "color": "a1248f",
+                        "text-color": "ffffff"
+                    },
+                    "081074": {
+                        "name": "081074",
+                        "category": "B",
+                        "number": "381",
+                        "operator": "RBL",
+                        "color": "d2ba63",
+                        "text-color": "000000"
+                    },
+                    "082023": {
+                        "name": "082023",
+                        "category": "B",
+                        "number": "382",
+                        "operator": "RBL",
+                        "color": "ec1f25",
+                        "text-color": "ffffff"
+                    },
+                    "090032": {
+                        "name": "090032",
+                        "category": "B",
+                        "number": "390",
+                        "operator": "RBL",
+                        "color": "f6aba7",
+                        "text-color": "000000"
+                    },
+                    "091100": {
+                        "name": "091100",
+                        "category": "B",
+                        "number": "391",
+                        "operator": "RBL",
+                        "color": "0bb14c",
+                        "text-color": "ffffff"
+                    },
+                    "092038": {
+                        "name": "092038",
+                        "category": "B",
+                        "number": "392",
+                        "operator": "RBL",
+                        "color": "d48785",
+                        "text-color": "ffffff"
+                    },
+                    "093058": {
+                        "name": "093058",
+                        "category": "B",
+                        "number": "393",
+                        "operator": "RBL",
+                        "color": "00adef",
+                        "text-color": "ffffff"
+                    },
+                    "094037": {
+                        "name": "094037",
+                        "category": "B",
+                        "number": "394",
+                        "operator": "RBL",
+                        "color": "ffd12b",
+                        "text-color": "000000"
+                    },
+                    "095028": {
+                        "name": "095028",
+                        "category": "B",
+                        "number": "395",
+                        "operator": "RBL",
+                        "color": "005bab",
+                        "text-color": "ffffff"
+                    },   
+                    "096023": {
+                        "name": "096023",
+                        "category": "B",
+                        "number": "396",
+                        "operator": "RBL",
+                        "color": "f6932e",
+                        "text-color": "000000"
+                    }
+                }
+            }
+                
+        },
+        "T": {},
+        "S": {},
+        "IR": {},
+        "IC": {},
+        "EC": {},
+        "NJ": {},
+        "BAT": {},
+        "PB": {},
+        "M": {}
+    }
+}

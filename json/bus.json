@@ -1,0 +1,402 @@
+{
+    "Number": {
+        "AVA/Autw": {
+            "040072": {
+                "number": "340",
+                "color": "b72a2f",
+                "text-color": "ffffff"
+            },
+            "444": {
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            },
+            "445": {
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            }
+        },
+        "AVA-ltb": {
+            "200": {
+                "color": "a0296f",
+                "text-color": "ffffff"
+            }
+        },
+        "RVBW": {
+            "001431": {
+                "number": "1",
+                "color": "c31b23",
+                "text-color": "ffffff"
+            },
+            "002257": {
+                "number": "2",
+                "color": "4694d4",
+                "text-color": "ffffff"
+            },
+            "003003": {
+                "number": "3",
+                "color": "f0d93c",
+                "text-color": "000000"
+            },
+            "004001": {
+                "number": "4",
+                "color": "61a94b",
+                "text-color": "ffffff"
+            },
+            "005321": {
+                "number": "5",
+                "color": "c970a1",
+                "text-color": "ffffff"
+            },
+            "006373": {
+                "number": "6",
+                "color": "000000",
+                "text-color": "ffffff"
+            },
+            "007480": {
+                "number": "7",
+                "color": "3a3493",
+                "text-color": "ffffff"
+            },
+            "8": {
+                "color": "80572f",
+                "text-color": "ffffff"
+            },
+            "9": {
+                "color": "d8ab71",
+                "text-color": "ffffff"
+            },
+            "10": {
+                "color": "671a85",
+                "text-color": "ffffff"
+            },
+            "11": {
+                "color": "becc28",
+                "text-color": "ffffff"
+            },
+            "12": {
+                "color": "a8cfc6",
+                "text-color": "000000"
+            },
+            "13": {
+                "color": "f18751",
+                "text-color": "ffffff"
+            },
+            "N33": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N34": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N35": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N36": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N37": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N38": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N70": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N71": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N72": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            },
+            "N73": {
+                "color": "1b161c",
+                "text-color": "ffce26"
+            }
+        },
+        "PAG": {
+            "000187": {
+                "number": "1",
+                "color": "ec1f25",
+                "text-color": "ffffff"
+            },
+            "000385": {
+                "number": "3",
+                "color": "95c93d",
+                "text-color": "000000"
+            },
+            "000485": {
+                "number": "4",
+                "color": "ea028c",
+                "text-color": "ffffff"
+            }, 
+            "000585": {
+                "number": "5",
+                "color": "005bab",
+                "text-color": "ffffff"
+            },
+            "000803": {
+                "number": "8",
+                "color": "780001",
+                "text-color": "ffffff"
+            },
+            "9": {
+                "color": "00adef",
+                "text-color": "ffffff"
+            },
+            "102": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "133": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "134": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "135": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "136": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "137": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "139": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "141": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "142": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "143": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "144": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "147": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "148": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "149": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "150": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "205": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "215": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "217": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "231": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "245": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "320": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "321": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "322": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "331": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "332": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "334": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "335": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "033663": {
+                "number": "336",
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "338": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "339": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "034169": {
+                "number": "341",
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "342": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "343": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "344": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "034535": {
+                "number": "345",
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "346": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "350": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "352": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "353": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "354": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "355": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "357": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "358": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "360": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "361": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "362": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "363": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "364": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "366": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "368": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "371": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "372": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "374": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "376": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "379": {
+                "color": "f3b229",
+                "text-color": "000000"  
+            },
+            "380": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "381": {
+                "color": "f3b229",
+                "text-color": "000000"
+            },
+            "515": {
+                "color": "f3b229",
+                "text-color": "000000"
+            }
+        },
+        "RBL": {
+            "390": {
+                "color": "f6aba7",
+                "text-color": "000000"
+            },
+            "392": {
+                "color": "d48785",
+                "text-color": "ffffff"
+            }
+        }
+    }
+}
